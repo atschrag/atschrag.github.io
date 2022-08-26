@@ -30,7 +30,7 @@ url: "https://atschrag.github.io" # the base hostname & protocol for your site, 
 github_username:  atschrag
 
 # Build settings
-theme: minima
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
