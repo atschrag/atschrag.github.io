@@ -2,7 +2,7 @@
 layout: page
 custom_css: cv
 ---
-# Adam Schrag
+# CV - under construction - not my cv
 Senior Lecturer, University of Minnesota
 
 Carlson School of Management<br/>

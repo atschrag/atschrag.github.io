@@ -8,7 +8,7 @@ title: Adam Schrag
 tagline: Senior Lecturer in Communication & Faculty in Security Technologies
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
-# Hello World
+# UNDER CONTRUCTION & EXPERIMENTATION - COME BACK LATER
 
 {% include image.html url="images/adam-schrag-headshot.png" align=left description="My cat, Robert Downey Jr." %}{: .align-left}
 What are you doing here?
